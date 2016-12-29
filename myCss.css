@@ -1,0 +1,33 @@
+html {
+    background-color: brown;
+    }
+    ul{
+    	padding: 5px 10px;
+    	width: 150px;
+    	height: 100px;
+    	border-radius: 15px; /* adding rounded corners */
+    	margin-bottom: 5px;
+    	list-style-type:none;
+    	
+    }
+li{
+	
+	background-color: orange;
+	border: 1px solid gray;
+	}
+li.hot{
+	background-color:red;
+	}
+li.complete{
+	
+	background-color:gray;
+	}
+li.cool{
+	
+	background-color:green;
+	}
+li.normal{
+		
+	background-color:orange;
+	}
+.favorite{color: yellow;}
